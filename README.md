@@ -1,7 +1,7 @@
 # BridgeLab Training Repository
 # Bridgelabz-2415500271-Training 
 
-### Java Learning Log with Tasks and Needs
+### Java Learning Log 
 
 **August 11–13, 2025**  
 - **Learned:** Git Bash setup and version control basics  
