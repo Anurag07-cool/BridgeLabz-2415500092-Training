@@ -1,5 +1,5 @@
 # BridgeLab Training Repository
-# Bridgelabz-2415500271-Training with Tasks and Needs
+# Bridgelabz-2415500271-Training 
 
 ### Java Learning Log with Tasks and Needs
 
